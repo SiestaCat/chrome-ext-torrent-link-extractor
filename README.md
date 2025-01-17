@@ -2,3 +2,4 @@
 
 ## Privacy policy
 
+No data is shared
